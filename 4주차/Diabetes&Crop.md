@@ -6,12 +6,15 @@ b = torch.zeros(1, requires_grad=True, device="cuda") #1? 2?
 # optimizer 설정
 optimizer = optim.SGD([W, b], lr=0.0001)
 
+#loss = torch.nn.BCELoss()
+
 nb_epochs = 1000000
 for epoch in range(nb_epochs + 1):
 
     # Cost 계산
     hypothesis = torch.sigmoid(train_x.matmul(W) + b)
     cost = -(train_y * torch.log(hypothesis) + (1 - train_y) * torch.log(1 - hypothesis)).mean()
+    #cost = loss(train_x.matmul(W) + b, train_y.unsqueeze(1))
 
     # cost로 H(x) 개선
     optimizer.zero_grad()
