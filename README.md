@@ -11,6 +11,6 @@
 |5|선형 분류 2||[💙](https://github.com/yunjeong-chang/2021_Artificial-Intelligence/blob/main/5%EC%A3%BC%EC%B0%A8/MNIST.md)|
 |6|심층신경망|[💚](https://github.com/yunjeong-chang/2021_Artificial-Intelligence/tree/main/6%EC%A3%BC%EC%B0%A8/exercise)|💙|
 |7|심층신경망 2|[💚](https://github.com/yunjeong-chang/2021_Artificial-Intelligence/blob/main/7%EC%A3%BC%EC%B0%A8/7%EC%A3%BC%EC%B0%A8_%EC%8B%A4%EC%8A%B56_ALL.ipynb)|[💙](https://github.com/yunjeong-chang/2021_Artificial-Intelligence/blob/main/7%EC%A3%BC%EC%B0%A8/MNIST%26Traffic.md)|
-|8|중간고사||💙|
+|8|중간고사||[💙](https://github.com/yunjeong-chang/2021_Artificial-Intelligence/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%A4%91%EA%B0%84%EA%B3%A0%EC%82%AC%20%EB%8C%80%EB%B9%84%20%EB%A7%A4%EB%89%B4%EC%96%BC.md)|
 
 (exercise는 교수님께서 수업시간에 설명해 주신 코드를 바탕으로 합니다.)
