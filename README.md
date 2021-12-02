@@ -13,8 +13,8 @@
 |7|심층신경망 2|[💚](https://github.com/yunjeong-chang/2021_Artificial-Intelligence/blob/main/7%EC%A3%BC%EC%B0%A8/7%EC%A3%BC%EC%B0%A8_%EC%8B%A4%EC%8A%B56_ALL.ipynb)|[💙](https://github.com/yunjeong-chang/2021_Artificial-Intelligence/blob/main/7%EC%A3%BC%EC%B0%A8/MNIST%26Traffic.md)|
 |8|중간고사||[💙](https://github.com/yunjeong-chang/2021_Artificial-Intelligence/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%A4%91%EA%B0%84%EA%B3%A0%EC%82%AC%20%EB%8C%80%EB%B9%84%20%EB%A7%A4%EB%89%B4%EC%96%BC.md)|
 |9|합성곱신경망|||
-|10|합성곱신경망|[💚](https://github.com/yunjeong-chang/2021_Artificial-Intelligence/tree/main/10%EC%A3%BC%EC%B0%A8)||
-|11|합성곱신경망|[💚](https://github.com/yunjeong-chang/2021_Artificial-Intelligence/tree/main/11%EC%A3%BC%EC%B0%A8)||
+|10|합성곱신경망|[💚](https://github.com/yunjeong-chang/2021_Artificial-Intelligence/tree/main/10%EC%A3%BC%EC%B0%A8)|[MNIST](https://github.com/yunjeong-chang/2021_Artificial-Intelligence/blob/main/10%EC%A3%BC%EC%B0%A8/CNN-MNIST.md)/[CIFAR10]()|
+|11|합성곱신경망|[💚](https://github.com/yunjeong-chang/2021_Artificial-Intelligence/tree/main/11%EC%A3%BC%EC%B0%A8)|[Caltech101]()/[음성감정]()|
 |12|텀프로젝트|||
 |13|역전파|||
 |14|HW/SW|||
