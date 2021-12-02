@@ -15,7 +15,7 @@
 |9|합성곱신경망|||
 |10|합성곱신경망|[💚](https://github.com/yunjeong-chang/2021_Artificial-Intelligence/tree/main/10%EC%A3%BC%EC%B0%A8)|[MNIST](https://github.com/yunjeong-chang/2021_Artificial-Intelligence/blob/main/10%EC%A3%BC%EC%B0%A8/CNN-MNIST.md)/[CIFAR10]()|
 |11|합성곱신경망|[💚](https://github.com/yunjeong-chang/2021_Artificial-Intelligence/tree/main/11%EC%A3%BC%EC%B0%A8)|[Caltech101]()/[음성감정]()|
-|12|텀프로젝트|||
+|12|텀프로젝트||[💙](https://www.kaggle.com/c/2021-airlines-customer-satisfaction-prediction/overview)|
 |13|역전파|||
 |14|HW/SW|||
 |15|기말고사|||
