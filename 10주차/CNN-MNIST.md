@@ -21,7 +21,7 @@ train_x = train_x.reshape(-1, 28, 28, 1)
 train_y = train_y.reshape(-1,1)
 ```
 ```py
-class MNISTDataset(Dataset):
+class MNIST_DateLoader(Dataset):
     def __init__(self, images, labels): 
         self.images = images
         self.labels = labels
@@ -37,7 +37,7 @@ class MNISTDataset(Dataset):
     def __len__(self):
         return len(self.images)
     
-train_data = MNISTDataset(train_x, train_y)
+train_data = MNIST_DateLoader(train_x, train_y)
 train_loader = DataLoader(train_data, batch_size=128, shuffle=True)
 ```
 ```py
