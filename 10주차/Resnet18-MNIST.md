@@ -68,7 +68,7 @@ for epoch in range(epochs):
     print(f'Epoch: {epoch + 1}/{epochs}, Loss: {loss.item()}')
 ```
 ```py
-test = pd.read_csv('../input/2021-ai-w10-p1/2021-ai-w10-p1/test.csv', dtype=np.float32)
+test = pd.read_csv('../input/2021-ai-w10-p1/2021-ai-w10-p1/test.csv', dtype=np.float32) #header=None
 test = test.to_numpy() / 255.0
 test = test.reshape(-1, 28, 28, 1)
 
